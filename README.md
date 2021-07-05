@@ -1,2 +1,2 @@
-# asvin-puf-id-generator
+# asvin PUF-ID generator
 asvinID generation using PUF
